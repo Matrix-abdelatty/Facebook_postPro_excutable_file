@@ -1,8 +1,8 @@
 {
-  "latest_version": "13.6",
-  "download_url": "https://github.com/Matrix-abdelatty/Facebook_postPro_excutable_file/releases/download/v13.6/FacebookPostPro.exe",
+  "latest_version": "13.7",
+  "download_url": "https://github.com/Matrix-abdelatty/Facebook_postPro_excutable_file/releases/download/v13.7/FacebookPostPro.exe",
   "stable_download_url": "https://github.com/Matrix-abdelatty/Facebook_postPro_excutable_file/releases/latest/download/FacebookPostPro.exe",
-  "sha256": "2a7461dd00be9331b14493a8ff5a94b84c06db413d15626dd23bca104babf66d",
-  "file_size": 54723072,
-  "updated_at": "2026-07-29T21:08:16.907276+00:00"
+  "sha256": "22f1a65dc40c53e576333ef4d2fd5a00492894b746b79b1a234f93f4498b6298",
+  "file_size": 54733824,
+  "updated_at": "2026-08-07T00:32:16.560841+00:00"
 }
